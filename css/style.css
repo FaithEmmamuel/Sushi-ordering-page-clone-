@@ -244,6 +244,10 @@ a {
   .popular-foods__card.active-card {
     min-width: 100%;
   }
+
+  .popular-foods__filter {
+    flex-wrap: wrap;
+  }
 }
 /* END: popular media queries */
 
