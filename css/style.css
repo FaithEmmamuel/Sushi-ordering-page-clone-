@@ -321,4 +321,9 @@ a {
     padding: 32px;
   }
 }
+
+@media screen and (max-width: 550px) {
+  .footer {
+    flex-wrap: wrap;
+  }
 /* END: trending media queries */
